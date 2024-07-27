@@ -1,8 +1,9 @@
 # Calculadora Responsiva Com JavaScript
-    Este projeto visa desenvolver uma calculadora web simples e responsiva utilizando HTML, CSS e JavaScript. O objetivo é criar uma ferramenta funcional que permita realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão, com uma interface amigável e que se adapte a diferentes tamanhos de tela.
+Este projeto visa desenvolver uma calculadora web simples e responsiva utilizando HTML, CSS e JavaScript. O objetivo é criar uma ferramenta funcional que permita realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão, com uma interface amigável e que se adapte a diferentes tamanhos de tela.
 
 
 ![Imagem do projeto](CalculadoraSimples/img/calculadora.png)
+
 ### 🚀 Veja o projeto
 [Link do projeto](https://devgabrielrr.github.io/CalculadoraSimples/)
 
